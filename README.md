@@ -21,4 +21,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 ![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)
 
 
+[![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=syedanastanweer&theme=dark)](https://git.io/streak-stats)
