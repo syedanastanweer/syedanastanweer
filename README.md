@@ -17,11 +17,10 @@ I'm excited to be on a journey to becoming a full stack developer. My current fo
 
 Constant learning is at the core of my development philosophy. I'm currently expanding my skill set to include backend technologies, enhancing my ability to create dynamic and data-driven web applications. As I work towards becoming a full stack developer, I'm always on the lookout for new challenges and opportunities to apply my skills.
 
+[![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)
-
-
-[![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=syedanastanweer&theme=dark)](https://git.io/streak-stats)
