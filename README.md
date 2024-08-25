@@ -7,8 +7,8 @@ I transform Figma designs into code, utilizing HTML5, CSS3, SCSS, JavaScript, an
 
 ## 🚀 Skills and Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** PHP, MSQLi, Nodejs
 - **Content Management Systems (CMS):** WordPress
 
 I'm excited to be on a journey to becoming a full stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
