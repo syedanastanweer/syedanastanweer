@@ -21,7 +21,7 @@ const Hasan = {
 };
 ```
 
-I'm excited to be on a journey to becoming a full stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
+I'm excited to be on a journey to becoming a full-stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
 
 ## 🌱 Learning and Growing
 
@@ -30,7 +30,6 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 [![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/youtube/channel/views/UCKkj-UCC992ZPU8NI2vdo5j8QWb4A?label=SyedAnasTanwer)](https://www.youtube.com/@syedanastanwer)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) 
 
 ## 🏆 GitHub Trophies
