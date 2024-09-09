@@ -17,7 +17,7 @@ const Hasan = {
   code: [HTML5, CSS3, Javascript],
   frameWorks: [React, NodeJs],
   database: ["MSQLi"],
-  hobbies:["Website Designing", "Website Development", "Watching Cat Videos 🥰"]
+  hobbies:["Website Designing", "Website Development"]
 };
 ```
 
