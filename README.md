@@ -21,7 +21,7 @@ const Anas = {
 };
 ```
 
-I'm excited to be on a journey to becoming a full-stack developer. My current focus is on mastering backend development to complement my frontend expertise and offer end-to-end solutions that empower users through technology.
+I'm excited to be on a journey to becoming a full-stack developer. My current focus is on mastering backend development to complement my front-end expertise and offer end-to-end solutions that empower users through technology.
 
 ## 🌱 Learning and Growing
 
