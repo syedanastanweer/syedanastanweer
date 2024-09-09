@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Anas Tanweer 👋
+## Hi there, I'm Syed Anas Tanweer 👋
 
 🎓 Computer Science Student | 💻 Web Developer | 🌐 Full Stack Enthusiast
 
@@ -32,15 +32,12 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=syedanastanweer&theme=dark)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=syedanastanweer&theme=dark)](https://git.io/streak-stats)
-
 ### 🪛 Toolkit
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-
-
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
