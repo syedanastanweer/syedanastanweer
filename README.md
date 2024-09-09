@@ -12,7 +12,7 @@ I transform Figma designs into code, utilizing HTML5, CSS3, SCSS, JavaScript, an
 - **Content Management Systems (CMS):** WordPress
 
 ```javascript
-const Hasan = {
+const Anas = {
   pronouns: "he" | "him",
   code: [HTML5, CSS3, Javascript],
   frameWorks: [React, NodeJs],
