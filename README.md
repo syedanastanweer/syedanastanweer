@@ -30,7 +30,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 [![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) <img alt="followers" src="https://img.shields.io/github/followers/syedanastanweer?label=Followers&style=social">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=syedanastanweer&theme=dark)](https://git.io/streak-stats)
 
