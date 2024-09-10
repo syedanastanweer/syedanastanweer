@@ -40,23 +40,6 @@ Constant learning is at the core of my development philosophy. I'm currently exp
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedanastanweer&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=syedanastanweer&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=syedanastanweer&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
-    <!-- Github Contribution 3D Profile -->
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -64,12 +47,6 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) <img alt="followers" src="https://img.shields.io/github/followers/syedanastanweer?label=Followers&style=social">
 
-<div align="center">
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=syedanastanweer&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)
