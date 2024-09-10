@@ -56,6 +56,8 @@ Constant learning is at the core of my development philosophy. I'm currently exp
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+</br>
+
 <img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
 <img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
 
