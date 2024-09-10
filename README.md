@@ -27,6 +27,13 @@ I'm excited to be on a journey to becoming a full-stack developer. My current fo
 
 Constant learning is at the core of my development philosophy. I'm currently expanding my skill set to include backend technologies, enhancing my ability to create dynamic and data-driven web applications. As I work towards becoming a full-stack developer, I'm always on the lookout for new challenges and opportunities to apply my skills.
 
+[![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) <img alt="followers" src="https://img.shields.io/github/followers/syedanastanweer?label=Followers&style=social">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=tokyonight" alt="mystreak"/>
+
 ## 📈 My Stats
 
 <div align="center">
@@ -41,11 +48,6 @@ Constant learning is at the core of my development philosophy. I'm currently exp
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedanastanweer&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=syedanastanweer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyPU2Rf6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedanastanweer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syedanastanweer) <img alt="followers" src="https://img.shields.io/github/followers/syedanastanweer?label=Followers&style=social">
 
 
 ## 🏆 GitHub Trophies
