@@ -33,7 +33,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedanastanweer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="display:inline-block; width:49%; height:200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=tokyonight" alt="Streak Stats" style="display:inline-block; width:49%; height:200px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=tokyonight" alt="Streak Stats" style="display:inline-block; width:49%; height:300px;"/>
 </div>
 
 ## 📈 My Stats
