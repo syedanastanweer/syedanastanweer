@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student | 💻 Web Developer | 🌐 Full Stack Enthusiast
 
-Welcome to my GitHub profile! I'm Syed Anas Tanweer. Currently, I'm honing my skills as a web developer at Fiverr and Upwork,
+Welcome to my GitHub profile! Currently, I'm honing my skills as a web developer as a Freelance,
 I transform Figma designs into code, utilizing HTML5, CSS3, SCSS, JavaScript, and many more technologies. On the backend, I work with PHP, MySQLi, and Laravel.
 
 ## 🚀 Skills and Tech Stack
@@ -13,7 +13,6 @@ I transform Figma designs into code, utilizing HTML5, CSS3, SCSS, JavaScript, an
 
 ```javascript
 const Anas = {
-  pronouns: "he" | "him",
   code: [HTML5, CSS3, Javascript],
   frameWorks: [React, NodeJs],
   database: ["MSQLi"],
