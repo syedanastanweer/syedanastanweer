@@ -53,7 +53,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=syedanastanweer)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=syedanastanweer&theme=onedark)](https://github.com/syedanastanweer/github-profile-trophy)
 
