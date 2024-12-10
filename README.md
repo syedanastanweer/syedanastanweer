@@ -70,7 +70,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
 <table>
   <tr>
     <td>
-     (https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=dark&hide_border=false)
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=syedanastanweer&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedanastanweer&layout=compact&theme=vision-friendly-dark" />
