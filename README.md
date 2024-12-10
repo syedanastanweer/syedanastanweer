@@ -67,9 +67,16 @@ Constant learning is at the core of my development philosophy. I'm currently exp
   </tbody>
 </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=dark&hide_border=false)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedanastanweer&layout=compact&theme=vision-friendly-dark)](https://github.com/syedanastanweer)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=dark&background=000000" alt="syedanastanweer's GitHub Streak Stats" />
+    </td>
+    <td>
+      <img align="right" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedanastanweer&layout=compact&theme=vision-friendly-dark" alt="syedanastanweer's Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ### 🪛 Toolkit
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
