@@ -67,7 +67,7 @@ Constant learning is at the core of my development philosophy. I'm currently exp
   </tbody>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=dark&hide_border=false)](https://github.com/syedanastanweer)
+![](https://github-readme-streak-stats.herokuapp.com/?user=syedanastanweer&theme=dark&hide_border=false)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedanastanweer&layout=compact&theme=vision-friendly-dark)](https://github.com/syedanastanweer)
 
